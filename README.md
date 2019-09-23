@@ -3,6 +3,14 @@ This free consulting project uses Aspose.Slides to create an image from text (au
 
 ## Screenshots
 
+![1-Adding Information](https://user-images.githubusercontent.com/1214951/65427236-50ad3780-de2b-11e9-8711-25746d6161c7.png)
+
+![2-Generating Image](https://user-images.githubusercontent.com/1214951/65427237-50ad3780-de2b-11e9-94f8-f16605335be6.png)
+
+![3-Generated Image](https://user-images.githubusercontent.com/1214951/65427238-5145ce00-de2b-11e9-8896-cc5d621a135e.png)
+
+![4-View Generated Image](https://user-images.githubusercontent.com/1214951/65427239-5145ce00-de2b-11e9-9550-24bf09347307.png)
+
 
 
 ## Interested in Aspose free consulting project?
