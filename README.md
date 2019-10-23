@@ -12,11 +12,19 @@ You can also use and customize this code to achieve any of the following:
 
 ![1-Adding Information](https://user-images.githubusercontent.com/1214951/65427236-50ad3780-de2b-11e9-8711-25746d6161c7.png)
 
+The above screenshot shows that the web page takes some text as input. We'll use this text to convert to an image. You can also convert this or any other text to a PowerPoint slide or presentation as well by adopting this code for your use case. 
+
 ![2-Generating Image](https://user-images.githubusercontent.com/1214951/65427237-50ad3780-de2b-11e9-94f8-f16605335be6.png)
+
+In the above screenshot, user clicks the Generate Image button, to convert the text to image. The code at the backend will take this text as input and then create an image from that. 
 
 ![3-Generated Image](https://user-images.githubusercontent.com/1214951/65427238-5145ce00-de2b-11e9-8896-cc5d621a135e.png)
 
+The idea behind this is same but it can be used in a variety of scenarios. Aspose.Slides for .NET or Java can be used to create PowerPoint slides and presentations as well as images in your code without requiring Microsoft PowerPoint. So you can use this code in any of your applications without requiring any extra tools or software. 
+
 ![4-View Generated Image](https://user-images.githubusercontent.com/1214951/65427239-5145ce00-de2b-11e9-9550-24bf09347307.png)
+
+Finally, the image is generated. We have kept it simple. But you can add more text and also format the text as you want. Aspose.Slides for .NET and Java provides quite a lot of flexiblity to convert text to images or slides. The API is simple and easy to use. 
 
 
 
