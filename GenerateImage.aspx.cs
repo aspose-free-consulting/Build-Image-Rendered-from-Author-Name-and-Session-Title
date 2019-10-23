@@ -12,6 +12,7 @@ namespace SlideImageGenerator
 {
     public partial class GenerateImage : System.Web.UI.Page
     {
+        //Create an image from text using Aspose.Slides for .NET 
         protected void Page_Load(object sender, EventArgs e)
         {
             
@@ -21,6 +22,7 @@ namespace SlideImageGenerator
         {
             try
             { 
+                //here we're creating a title slide using Aspose.Slides' SlideLayoutType 
                 Presentation pres = new Presentation();
                 ISlide slide = pres.Slides.AddEmptySlide(pres.LayoutSlides.GetByType(SlideLayoutType.Title));
 
@@ -54,8 +56,10 @@ namespace SlideImageGenerator
         private static void SaveAsImage(System.Drawing.Bitmap img, string path)
         {
             //save the image in the form of PNG
+            //Aspose.Slides provide different image formats in which you can save the output image
             img.Save(path, ImageFormat.Png);
         }
+
 
         private static MemoryStream SaveAsImage(System.Drawing.Bitmap img)
         {
