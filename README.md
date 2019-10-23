@@ -15,3 +15,7 @@ This free consulting project uses Aspose.Slides to create an image from text (au
 
 ## Interested in Aspose free consulting project?
 [If you are also interested in a free consulting project by Aspose team then please view details on this page](https://aspose-free-consulting.github.io/)
+
+If you have any questions about Aspose APIs, please feel free to [post your query in Aspose file format APIs Forums](https://forum.aspose.com/). 
+
+Also, you can keep in touch with the latest developments in [file format APIs offered by Aspose at our Blog](https://blog.aspose.com/). 
