@@ -5,7 +5,7 @@ You can also use and customize this code to achieve any of the following:
 
 * Create an image from the text
 * Create a PowerPoint slide from text
-* Create presentation from text 
+* [Create presentation from text](https://docs.aspose.com/display/slidesnet/Adding+and+Formatting+Text)
  
 
 ## Screenshots
