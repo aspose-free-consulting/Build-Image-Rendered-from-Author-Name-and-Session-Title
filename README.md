@@ -6,6 +6,7 @@ You can also use and customize this code to achieve any of the following:
 * Create an image from the text
 * Create a PowerPoint slide from text
 * [Create presentation from text](https://docs.aspose.com/display/slidesnet/Adding+and+Formatting+Text)
+* [Convert PowerPoint slide to image](https://docs.aspose.com/display/slidesnet/Converting+Presentation+to+TIFF)
  
 
 ## Screenshots
@@ -20,7 +21,7 @@ In the above screenshot, user clicks the Generate Image button, to convert the t
 
 ![3-Generated Image](https://user-images.githubusercontent.com/1214951/65427238-5145ce00-de2b-11e9-8896-cc5d621a135e.png)
 
-The idea behind this is same but it can be used in a variety of scenarios. Aspose.Slides for .NET or Java can be used to create PowerPoint slides and presentations as well as images in your code without requiring Microsoft PowerPoint. So you can use this code in any of your applications without requiring any extra tools or software. 
+The idea behind this is same but it can be used in a variety of scenarios. Aspose.Slides for .NET or Java can be used to [create PowerPoint slides and presentations](https://docs.aspose.com/display/slidesnet/Creating+and+Opening) as well as images in your code without requiring Microsoft PowerPoint. So you can use this code in any of your applications without requiring any extra tools or software. 
 
 ![4-View Generated Image](https://user-images.githubusercontent.com/1214951/65427239-5145ce00-de2b-11e9-9550-24bf09347307.png)
 
