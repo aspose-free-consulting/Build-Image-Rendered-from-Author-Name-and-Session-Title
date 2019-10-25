@@ -34,3 +34,11 @@ Finally, the image is generated. We have kept it simple. But you can add more te
 If you have any questions about Aspose APIs, please feel free to [post your query in Aspose file format APIs Forums](https://forum.aspose.com/). 
 
 Also, you can keep in touch with the latest developments in [file format APIs offered by Aspose at our Blog](https://blog.aspose.com/). 
+
+
+## Some other use cases where you can use Aspose.Slides
+
+* [Adding Shapes to PowerPoint slides](https://docs.aspose.com/display/slidesnet/Adding%2C+Formatting+and+Manipulating+Shapes)
+* [Adding Tables to PowerPoint slides](https://docs.aspose.com/display/slidesnet/Adding%2C+Updating+and+Manipulating+Tables)
+* [Adding Charts to PowerPoint slides](https://docs.aspose.com/display/slidesnet/Adding%2C+Formatting+and+Manipulating+Charts)
+
