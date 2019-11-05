@@ -43,3 +43,5 @@ Also, you can keep in touch with the latest developments in [file format APIs of
 * [Adding Tables to PowerPoint slides](https://docs.aspose.com/display/slidesnet/Adding%2C+Updating+and+Manipulating+Tables)
 * [Adding Charts to PowerPoint slides](https://docs.aspose.com/display/slidesnet/Adding%2C+Formatting+and+Manipulating+Charts)
 
+## This free consluting project is based on the following issue:
+[ I want to create/build a an image rendered from Author and session title information passed as parameters to display / be transposed onto image that is generated as PNG or JPG ot GIF](https://github.com/aspose-free-consulting/projects/issues/4)
