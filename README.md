@@ -1,5 +1,5 @@
 # Build Image Rendered from Author Name and Session Title
-This free consulting project domonstrates [creating an image from text using Aspose.Slides](https://products.aspose.com/slides) (author name and session title) so this information can later be shown on web or anywhere just as an image. 
+This [free consulting](https://aspose-free-consulting.github.io/) project domonstrates [creating an image from text using Aspose.Slides](https://products.aspose.com/slides) (author name and session title) so this information can later be shown on web or anywhere just as an image. 
 
 You can also use and customize this code to achieve any of the following:
 
